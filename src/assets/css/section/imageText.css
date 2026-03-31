@@ -60,10 +60,10 @@
 }
 
 .imgText_img.img1 {
-  background: url(../img/macaron.jpg) no-repeat center / cover;
+  background: url(../../img/macaron.jpg) no-repeat center / cover;
 }
 .imgText_img.img2 {
-  background: url(../img/icecream.png) no-repeat center / cover;
+  background: url(../../img/icecream.png) no-repeat center / cover;
 }
 .imgText_img a {
   display: inline-block;
