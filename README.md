@@ -1,3 +1,3 @@
 리액트로 만든 사이트
 
-완성 사이트 링크:
+완성 사이트 링크: https://dessert-site-yj.netlify.app/
